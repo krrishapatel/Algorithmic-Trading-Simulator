@@ -126,7 +126,7 @@ ai-trading-simulator/
 ## 📱 **Screenshots**
 
 ### **Dashboard Overview**
-![Dashboard]([https://via.placeholder.com/800x400/1e3c72/ffffff?text=AI+Trading+Dashboard](https://imgur.com/a/uiJBc69))
+![Dashboard](https://imgur.com/a/uiJBc69)
 
 ### **Real-Time Charts**
 ![Charts](https://via.placeholder.com/800x400/2a5298/ffffff?text=Live+Charts+%26+Analytics)
