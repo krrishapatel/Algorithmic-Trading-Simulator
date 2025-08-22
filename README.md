@@ -126,13 +126,11 @@ ai-trading-simulator/
 ## 📱 **Screenshots**
 
 ### **Dashboard Overview**
-![Dashboard][(https://imgur.com/ylc6eDP)]
+![Dashboard](images/dashboard-screenshot.png)
 
 ### **Real-Time Charts**
-![Charts](https://via.placeholder.com/800x400/2a5298/ffffff?text=Live+Charts+%26+Analytics)
-
-### **Multi-Asset Trading**
-![Assets](https://via.placeholder.com/800x400/4CAF50/ffffff?text=Multi-Asset+Portfolio)
+![Charts](images/chart1.png)
+![Charts](images/chart2.png)
 
 ## 🚀 **Getting Started Examples**
 
