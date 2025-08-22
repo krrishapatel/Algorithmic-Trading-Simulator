@@ -3,7 +3,6 @@
 > **Professional-Grade Multi-Asset Trading Platform with Real-Time AI Strategies**
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)](https://github.com/yourusername/ai-trading-simulator)
 
 ## 🌟 **What Makes This Truly Impressive**
@@ -179,21 +178,11 @@ pip install -r requirements.txt
 python3 -m pytest tests/
 ```
 
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 **Acknowledgments**
 
 - **Chart.js** for beautiful real-time charts
 - **Python Community** for amazing libraries
 - **Financial Industry** for trading strategy inspiration
-
-## 📞 **Support**
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-trading-simulator/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-trading-simulator/discussions)
-- **Email**: your.email@example.com
 
 ## 🌟 **Star History**
 
