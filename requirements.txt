@@ -1,0 +1,31 @@
+# AI Trading Simulator - Core Dependencies
+# This file contains only the essential packages needed to run the simulator
+
+# Core Python packages (usually included with Python 3.11+)
+# No external packages required - the simulator works with built-in Python modules!
+
+# Optional: For enhanced development experience
+# black==23.11.0          # Code formatting (optional)
+# pytest==7.4.3          # Testing framework (optional)
+# pytest-asyncio==0.21.1 # Async testing support (optional)
+
+# Note: The trading simulator is designed to work with zero external dependencies
+# All required functionality uses Python's built-in libraries:
+# - http.server (web server)
+# - socketserver (socket handling)
+# - threading (multi-threading)
+# - datetime (time handling)
+# - random (simulation)
+# - math (calculations)
+# - statistics (performance metrics)
+# - json (data serialization)
+# - dataclasses (data structures)
+# - typing (type hints)
+# - enum (enumerations)
+
+# To run the simulator:
+# python3 simple_demo.py          # Terminal demo
+# python3 trading_dashboard.py    # Web dashboard
+
+# To install optional development tools:
+# pip install black pytest pytest-asyncio
