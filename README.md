@@ -22,7 +22,7 @@ This is **NOT just a demo** - it's a **professional trading platform** that riva
 - **Signal Combination**: Multiple strategy confirmation
 - **Dynamic Position Sizing**: Based on signal strength
 
-### ** Professional Risk Management**
+### Professional Risk Management
 - **Position Limits**: 15% maximum per position (configurable)
 - **Daily Loss Limits**: 3% maximum (configurable)
 - **Real-time Risk Monitoring**: Continuous assessment
@@ -54,25 +54,25 @@ Open http://localhost:8001 in your browser for the full experience!
 
 ##  **Features**
 
-### ** Professional Web Dashboard**
+### Professional Web Dashboard
 - **Glassmorphism Design**: Modern, translucent UI with backdrop blur
 - **Real-Time Charts**: Portfolio performance + multi-asset price charts
 - **Interactive Controls**: Start/stop trading with one click
 - **Responsive Layout**: Works on all screen sizes
 
-### ** Real-Time Analytics**
+### Real-Time Analytics
 - **Portfolio Overview**: Total value, cash, P&L tracking
 - **Performance Metrics**: Sharpe ratio, max drawdown, win rate
 - **Market Sentiment**: Live bullish/bearish/neutral detection
 - **News Events**: Realistic market events with impact assessment
 
-### **⚡ High-Performance Architecture**
+### High-Performance Architecture
 - **Multi-Threading**: Non-blocking real-time updates
 - **Efficient Memory**: Rolling data windows (200 data points)
 - **Scalable Design**: Easy to add more assets and strategies
 - **Zero Dependencies**: Works with basic Python installation
 
-##  **Perfect For**
+##  Perfect For
 
 - **Trading Education**: Learn real-world strategies
 - **Portfolio Management**: Multi-asset allocation
@@ -81,7 +81,7 @@ Open http://localhost:8001 in your browser for the full experience!
 - **Financial Analysis**: Real-time market simulation
 - **Professional Presentations**: Impressive demos
 
-##  **Architecture**
+##  Architecture
 
 ```
 ai-trading-simulator/
@@ -103,38 +103,38 @@ ai-trading-simulator/
     └── Professional UI          # Modern glassmorphism design
 ```
 
-##  **Technical Details**
+##  Technical Details
 
-### **Python Features**
+### Python Features
 - **Dataclasses**: Clean data structures
 - **Type Hints**: Full type safety
 - **Enums**: Asset and strategy classification
 - **Statistics Module**: Built-in calculations
 
-### **Real-World Algorithms**
+### Real-World Algorithms
 - **VWAP Calculation**: Volume-weighted pricing (20-period)
 - **RSI Algorithm**: 14-period momentum with smoothing
 - **Bollinger Bands**: Statistical volatility (2σ)
 - **Linear Regression**: Trend analysis
 
-### **Risk Calculations**
+### Risk Calculations
 - **Correlation Analysis**: Portfolio diversification
 - **Drawdown Calculation**: Peak-to-trough analysis
 - **Sharpe Ratio**: Risk-adjusted performance
 - **Position Sizing**: Kelly criterion inspired
 
-##  **Screenshots**
+##  Screenshots
 
 ### **Dashboard Overview**
 ![Dashboard](images/dashboard-screenshot.png)
 
-### **Real-Time Charts**
+### Real-Time Charts
 ![Charts](images/chart1.png)
 ![Charts](images/chart2.png)
 
-##  **Getting Started Examples**
+##  Getting Started Examples
 
-### **Basic Usage**
+### Basic Usage
 ```python
 # Start the simulator
 python3 trading_dashboard.py
@@ -146,7 +146,7 @@ python3 trading_dashboard.py
 # Watch real-time multi-asset trading!
 ```
 
-### **Customization**
+### Customization
 ```python
 # Modify risk parameters in trading_dashboard.py
 self.portfolio = {
@@ -156,11 +156,11 @@ self.portfolio = {
 }
 ```
 
-##  **Contributing**
+##  Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
-### **Development Setup**
+### Development Setup
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/ai-trading-simulator.git
@@ -176,13 +176,13 @@ pip install -r requirements.txt
 python3 -m pytest tests/
 ```
 
-##  **Acknowledgments**
+##  Acknowledgments
 
 - **Chart.js** for beautiful real-time charts
 - **Python Community** for amazing libraries
 - **Financial Industry** for trading strategy inspiration
 
-##  **Star History**
+##  Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yourusername/ai-trading-simulator&type=Date)](https://star-history.com/#yourusername/ai-trading-simulator&Date)
 
