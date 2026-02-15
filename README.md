@@ -5,18 +5,18 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)](https://github.com/yourusername/ai-trading-simulator)
 
-##  **What Makes This Truly Impressive**
+##  What Makes This Truly Impressive
 
 This is **NOT just a demo** - it's a **professional trading platform** that rivals commercial systems! Built with institutional-grade algorithms, real-time risk management, and a stunning web interface.
 
-### ** Multi-Asset Universe (10+ Assets)**
+### Multi-Asset Universe (10+ Assets)
 - **Stocks**: AAPL, MSFT, GOOGL, TSLA, NVDA (Real Tech Giants)
 - **Cryptocurrencies**: BTC, ETH (Digital Assets)
 - **Forex**: EUR/USD (Currency Pairs)
 - **Commodities**: GOLD (Precious Metals)
 - **ETF**: SPY (Market Index)
 
-### ** Real-World Trading Strategies**
+### Real-World Trading Strategies
 - **VWAP + Momentum**: Volume-weighted pricing with trend analysis
 - **Mean Reversion**: Bollinger Bands + RSI for oversold/overbought
 - **Signal Combination**: Multiple strategy confirmation
